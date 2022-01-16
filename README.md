@@ -31,6 +31,7 @@
 <div align="left">
   <h1 align="left">appliedAIstudio</h3>
 </div>
+<br />
 
 
 <!-- TABLE OF CONTENTS -->
