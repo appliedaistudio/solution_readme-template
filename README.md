@@ -91,7 +91,7 @@ Be sure to do this for every element shown in the diagram.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+The purpose is to let the reader know what kind of background information they will need to understand this solution. Imagine someone technically competent, but new to this project. What technologies would be helpful to read up on? What background reading did you wish you had when you started this project? In the introductory paragraph, describe the general purpose for each technology listed. Answer the question: what would happen if that technology was missing? List each technology below with a link to background information for the reader. Here are a few examples.
 
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
