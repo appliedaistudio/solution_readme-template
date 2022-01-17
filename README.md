@@ -125,7 +125,7 @@ The user interface is a Node JavaScript application. You will need to install No
 
 ### Quick Start
 These are the minimum steps needed to get a copy of the system up and running.
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below is an example of how you can instruct your audience on installing and setting up your app. Spend a considerable amount of time making these instructions as short as possible._
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
