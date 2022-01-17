@@ -115,7 +115,9 @@ If this project, for example, were instructions on building a house. You would d
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Assume the reader is starting with commodity compute and storage technology. Walk the reader through the prerequisites of preparing the standard environment for running this system. For each step, start be describing why that step is necessary (what will happen if they decide to skip this step). The give a bullet point with a very short description of the step. Follow that with a code block that describes the system interactions needed to achieve that step. For example:
+
+The user interface is a Node JavaScript application. You will need to install Node to run the dashboard user interface. 
 * npm
   ```sh
   npm install npm@latest -g
