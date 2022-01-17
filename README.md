@@ -42,6 +42,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#naming-conventions">Naming Conventions</a></li>
       </ul>
     </li>
     <li>
@@ -59,6 +60,7 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
 
 
 
@@ -84,6 +86,55 @@ You should also describe how each file corresponds to each element shown in the 
 The ML model is implemented in `ml.py`
 
 Be sure to do this for every element shown in the diagram.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+### Naming Conventions
+
+This project uses the following naming conventions for repos, directories, files,  commits, versions, and programming lanuages. 
+
+#### Repos
+
+Repos will use kebab case with all lower case letters and no other special characters. Numbers are allowed. Related repos can be found filtering on  the product/project name. 
+
+```
+[product/project name]-[purpose]-[subpurpose] e.g. solution-devops-templaterepo
+```
+
+Repos names will be:
+
+- Descriptive
+- Readable
+- Consistent
+- Contextual
+- Future-friendly
+- Extensible
+- Reusable
+- Brief (short/ succinct)
+
+Repo name guidelines adapted from  the [British Columbia Policy Framework for GitHub Document Naming Repos](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/Naming-Repos.md).
+
+#### Directories
+
+Directories use the same conventions as repos with the exception that leading periods (.) and underscores (_) can be used. Directories do not have to have multple name sections separated by dashes.
+
+#### Files
+
+File names follow the same name guidelines as repos and directories and have no spaces.
+
+#### Commits
+
+Commits use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#specification).
+
+#### Versions
+
+Release versions use [Semantic Versioning](https://semver.org/).
+
+#### Programming Languages
+
+Code will use the most widely excepted sytle guide for a particular programming language with development begins. e.g. [PEP8](https://www.python.org/dev/peps/pep-0008/) for Python.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
