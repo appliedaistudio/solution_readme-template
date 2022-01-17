@@ -71,7 +71,7 @@ Describe the purpose of the project, but do so by answering two questions.  What
 
 Give the reader a diagram and walk them through it. The diagram should be a UML development view like the one shown above. UML is simple to understand and most readers have already had experience with them. The above diagram is much more complicated that what you will typically have. Typically, the diagram will be some subset of the system depicted. So it may only show user-interface components or a single data pipeline.
 
-Let the diagram do most of the work. The diagram should be clear enough for the reader to understand most of the intended solution.  Use this text to give the reader a brief tour of the diagram and to disclose any details that are not easy to express in the UML diagram. Bullet points or lists are a good way to describe what the system is intended to do. For example:
+Let the diagram do most of the work. The diagram should be clear enough for the reader to understand most of the intended solution.  Use this text to give the reader a brief tour of the diagram and to disclose any details that are not easy to express in the UML diagram. The tour should follow the information flow of the system. Where does information start? Where does it go next? Where does it end? Bullet points or lists are a good way to describe what the system is intended to do. For example:
 
 * The system takes in resume data
 * It also takes in job postings
