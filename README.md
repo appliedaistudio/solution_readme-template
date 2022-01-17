@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="left">
-  <h1 align="left">appliedAIstudio</h3>
+  <h1 align="left">appliedAIstudio</h1>
 </div>
 <br />
 
