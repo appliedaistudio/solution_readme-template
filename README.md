@@ -48,7 +48,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Quick Start</a></li>
+        <li><a href="#quick-start">Quick Start</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
