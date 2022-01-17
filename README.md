@@ -109,8 +109,9 @@ The purpose is to let the reader know what kind of background information they w
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+The worst part of a GitHub project is staring at folders and code and wondering: what now? Give the reader a basic overview of how to turn the code in this repository into a working system. The _Quick Start_ section will give step-by-step instructions. Here you should describe the basic ideas. You want to give the reader a mental model of how to set things up so that when they read through the detailed instructions, they can put each step into a meaningful context. This section should describe the basic ideas behind the quick start process in enough detail so that someone reading through the steps in the _Quick Start_ section could tell if there was a step missing or out of order.
+
+If this project, for example, were instructions on building a house. You would describe the general idea of putting in the foundation, then framing out the building, putting in the infrastructure, then finishing off the walls. These aren't detailed steps, but a general description for understanding detailed steps later.
 
 ### Prerequisites
 
@@ -120,8 +121,8 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
-
+### Quick Start
+These are the minimum steps needed to get a copy of the system up and running.
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Get a free API Key at [https://example.com](https://example.com)
