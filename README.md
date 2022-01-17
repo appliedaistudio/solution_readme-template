@@ -158,6 +158,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
 ## Roadmap
+This section is extremely important. Do not delete this, skip this, or leave it blank. Create content similar to the example below.
 
 - [x] Add Changelog
 - [x] Add back to top links
