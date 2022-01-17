@@ -176,6 +176,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 <!-- CONTRIBUTING -->
 ## Contributing
+_Keep this section only if the project is open source..._
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -204,9 +205,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Team Member, Role - email@example.com<br/>
+Team Member, Role - email@example.com<br/>
+Team Member, Role - email@example.com<br/>
+Team Member, Role - email@example.com<br/>
+Team Member, Role - email@example.com<br/>
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+Project Link: [https://github.com/your_org/repo_name](https://github.com/your_org/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
