@@ -127,9 +127,35 @@ File names follow the same name guidelines as repos and directories and have no 
 
 Commits use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#specification).
 
+**ex:**
+
+```
+docs(readme): update readme with examples
+feat(api)!: add pagination to results
+fix(frontend): fix tab order on form fields
+```
+
 #### Versions
 
-Release versions use [Semantic Versioning](https://semver.org/).
+Release versions use [Semantic Versioning](https://semver.org/), with the version number prefixed with "v'".
+
+> Given a version number MAJOR.MINOR.PATCH, increment the:
+>
+> 1. MAJOR version when you make incompatible API changes,
+> 2. MINOR version when you add functionality in a backwards compatible manner, and
+> 3. PATCH version when you make backwards compatible bug fixes.
+>
+> Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
+
+**ex:**
+
+```
+v1.0.11
+v1.5.0
+v2.1.3
+```
+
+
 
 #### Programming Languages
 
